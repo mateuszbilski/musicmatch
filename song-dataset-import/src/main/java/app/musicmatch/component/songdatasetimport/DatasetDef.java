@@ -1,0 +1,30 @@
+package app.musicmatch.component.songdatasetimport;
+
+public enum DatasetDef {
+    artist_familiarity,
+    artist_hotttnesss,
+    artist_id,
+    artist_name,
+    artist_terms,
+    artist_terms_freq,
+    artist_terms_weight,
+    danceability,
+    duration,
+    energy,
+    key,
+    key_confidence,
+    loudness,
+    mode,
+    mode_confidence,
+    release,
+    release_7digitalid,
+    similar_artists,
+    song_hotttnesss,
+    song_id,
+    tempo,
+    time_signature,
+    time_signature_confidence,
+    title,
+    track_id,
+    year
+}
